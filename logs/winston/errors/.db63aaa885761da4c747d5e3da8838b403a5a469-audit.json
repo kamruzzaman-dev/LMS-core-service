@@ -1,0 +1,20 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "D:\\FILE 2\\programming code\\apollo course\\mil-03\\LMS-core-serivce\\logs\\winston\\errors\\.db63aaa885761da4c747d5e3da8838b403a5a469-audit.json",
+    "files": [
+        {
+            "date": 1694710991794,
+            "name": "D:\\FILE 2\\programming code\\apollo course\\mil-03\\LMS-core-serivce\\logs\\winston\\errors\\phu-2023-14-09-23-error.log",
+            "hash": "4cf6f24500c88308fb50b696b816b161b154cbf5919d40660aad67afae343b32"
+        },
+        {
+            "date": 1694748335864,
+            "name": "D:\\FILE 2\\programming code\\apollo course\\mil-03\\LMS-core-serivce\\logs\\winston\\errors\\phu-2023-15-09-09-error.log",
+            "hash": "74f583f1919477203803612d48142800713032a1a94c781596a0ec829ac46bba"
+        }
+    ],
+    "hashType": "sha256"
+}
