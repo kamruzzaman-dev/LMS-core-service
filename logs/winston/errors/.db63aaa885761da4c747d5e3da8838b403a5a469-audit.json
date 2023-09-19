@@ -34,6 +34,11 @@
             "date": 1694836135762,
             "name": "D:\\FILE 2\\programming code\\apollo course\\mil-03\\LMS-core-serivce\\logs\\winston\\errors\\phu-2023-16-09-09-error.log",
             "hash": "dc7a7bfca471e9432235af10ba3cfd43c2bdb4f640e7c1c4f13a30ad91687556"
+        },
+        {
+            "date": 1695096625106,
+            "name": "D:\\FILE 2\\programming code\\apollo course\\mil-03\\LMS-core-serivce\\logs\\winston\\errors\\phu-2023-19-09-10-error.log",
+            "hash": "18a55c5f194d110a486f382b8d91cbff6cc1385ac918b2527fda2c89be2b5127"
         }
     ],
     "hashType": "sha256"
